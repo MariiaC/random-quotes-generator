@@ -1,0 +1,23 @@
+.quote-container {
+  background-color: blanchedalmond;
+  height: 300px;
+  width: 700px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.quote-btn {
+  margin: 50px auto;
+  height: 50px;
+  width: 200px;
+  font-size: 18px;
+  background-color: plum;
+  cursor: pointer;
+}
+
+.qoute-output {
+  margin: 5px auto;
+  font-size: 16px;
+  color: black;
+  font-size: large;
+}
